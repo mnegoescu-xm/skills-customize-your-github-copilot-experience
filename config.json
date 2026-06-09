@@ -77,6 +77,30 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "fastapi-production-apis",
+      "title": "API Design with FastAPI: Production-Ready Endpoints",
+      "description": "Design and implement production-minded FastAPI endpoints with validation, docs, and tests",
+      "path": "assignments/fastapi-production-apis",
+      "dueDate": "2026-06-16",
+      "attachments": [
+        {
+          "name": "Starter App",
+          "file": "app.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "txt"
+        },
+        {
+          "name": "Tests",
+          "file": "tests/test_app.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
